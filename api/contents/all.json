@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-08-31T14:02:16.566428Z",
+      "format": null,
+      "last_modified": "2021-08-31T14:02:16.566428Z",
+      "mimetype": null,
+      "name": "content",
+      "path": "content",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2021-08-31T14:02:16.558427Z",
+  "format": "json",
+  "last_modified": "2021-08-31T14:02:16.558427Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
